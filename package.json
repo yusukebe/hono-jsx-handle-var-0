@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "tsx": "tsx ./src/index.tsx"
+  },
+  "dependencies": {
+    "hono": "^3.12.0"
+  }
+}
